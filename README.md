@@ -23,8 +23,8 @@ Required libraries: pyttsx3, googletrans==4.0.0-rc1, tkinter (pre-installed with
 Installation
 Clone this repository:
 Copy code
-git clone https://github.com/yourusername/talking-dictionary.git
-cd talking-dictionary
+git clone https://github.com/Gow0007/Talking-Dictionary.git
+cd Talking-Dictionary
 Install dependencies:
 Copy code
 pip install pyttsx3 googletrans==4.0.0-rc1
